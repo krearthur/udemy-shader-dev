@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: cd3fae64e5616224292ba23c19c0a581
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Angle
+    100002: Coffee-Container
+    100004: //RootNode
+    100006: Espresso-Base
+    100008: Espresso-Cap
+    100010: Espresso-Handle
+    100012: Espresso-Top
+    100014: Knob
+    100016: Ventil
+    400000: Angle
+    400002: Coffee-Container
+    400004: //RootNode
+    400006: Espresso-Base
+    400008: Espresso-Cap
+    400010: Espresso-Handle
+    400012: Espresso-Top
+    400014: Knob
+    400016: Ventil
+    2100000: Aluminium
+    2100002: BlackPlastic
+    2100004: DarkerMetal
+    2100006: Bronce
+    2100008: NonReflectiveMetal
+    2300000: Angle
+    2300002: Coffee-Container
+    2300004: Espresso-Base
+    2300006: Espresso-Cap
+    2300008: Espresso-Handle
+    2300010: Espresso-Top
+    2300012: Knob
+    2300014: Ventil
+    3300000: Angle
+    3300002: Coffee-Container
+    3300004: Espresso-Base
+    3300006: Espresso-Cap
+    3300008: Espresso-Handle
+    3300010: Espresso-Top
+    3300012: Knob
+    3300014: Ventil
+    4300000: Espresso-Top
+    4300002: Espresso-Cap
+    4300004: Knob
+    4300006: Angle
+    4300008: Espresso-Handle
+    4300010: Espresso-Base
+    4300012: Ventil
+    4300014: Coffee-Container
+    6400000: Angle
+    6400002: Coffee-Container
+    6400004: Espresso-Base
+    6400006: Espresso-Cap
+    6400008: Espresso-Handle
+    6400010: Espresso-Top
+    6400012: Knob
+    6400014: Ventil
+    7400000: Espresso-Top|Espresso_topAction.001
+    7400002: Espresso-Handle|Espresso_topAction.001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: 2cf7668d03a876240bb08a8ebb3c51cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlackPlastic
+    second: {fileID: 2100000, guid: 3eebbf4104997a94a85d01694f9b1959, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bronce
+    second: {fileID: 2100000, guid: 3c403458e42519e43b5d417a145caf7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DarkerMetal
+    second: {fileID: 2100000, guid: 1d56dc99ff79c964692e76d399ad27f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NonReflectiveMetal
+    second: {fileID: 2100000, guid: 7150037f18a2807499b72db263b70ee5, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.049999997
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
